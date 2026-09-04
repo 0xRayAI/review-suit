@@ -1,0 +1,5 @@
+name: review
+skill: review
+description: "This repo's job: review the diff. Inspect is the punch clock. Overlay, not mill plant."
+version: "0.0.1"
+mode: subagent
