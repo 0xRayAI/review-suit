@@ -1,6 +1,6 @@
-# review-suit
+# @0xray/review-suit
 
-Example hire. A model is a mind. A TUI is a job site. This repo is the job posting.
+Example hire from the 0xRay org. Not mill plant. A model is a mind. A TUI is a job site. This repo is the job posting.
 
 `npm i 0xray@4.0.5` puts the worker on the floor (rules on, mill + inspect). This tree overlays **review**. Copy `src/skills/review` and rename it to your job.
 
