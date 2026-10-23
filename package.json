@@ -1,6 +1,6 @@
 {
   "name": "@0xray/review-suit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "license": "MIT",
   "description": "Example hire: mill + inspect uniform, review job overlaid. Copy src/skills/review.",
@@ -13,9 +13,13 @@
   },
   "files": [
     "README.md",
-    "src"
+    "src",
+    "CHANGELOG.md"
   ],
   "dependencies": {
     "0xray": "4.0.5"
+  },
+  "engines": {
+    "node": ">=24.22.1"
   }
 }
